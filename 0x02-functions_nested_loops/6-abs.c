@@ -2,6 +2,7 @@
 
 /**
  * _abs -  a function that computes the absolute value of an integer
+ * @n: print absolute
  *
  * Return: +1  (value greater than zero) -1 (value less than zero)
  */
