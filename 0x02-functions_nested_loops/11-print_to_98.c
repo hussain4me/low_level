@@ -3,7 +3,7 @@
 
 /**
  * print_to_98 - This will print all natural
- * On: Print from here
+ * @n: Print from here
  */
 
 void print_to_98(int n)
