@@ -5,7 +5,7 @@
  * @dest: copy to
  * @src: copy from
  *
- * Return char
+ * Return: string
  */
 
 char *_strcpy(char *dest, char *src)
