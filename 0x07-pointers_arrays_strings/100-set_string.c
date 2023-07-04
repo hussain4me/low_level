@@ -1,10 +1,10 @@
 #include "main.h"
 
 /**
- * set_string -  a function that sets the value of 
+ * set_string - a function that sets the value of
  * a pointer to a char
  * @s: pointer to pointer input
- * @top: pointer char
+ * @to: pointer char
  *
  * Return: void
  */
