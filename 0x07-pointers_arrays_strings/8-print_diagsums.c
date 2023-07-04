@@ -1,15 +1,15 @@
 #include "main.h"
 
 /**
- * set_string - a function that sets the value of
+ * print_diagsums - a function that sets the value of
  * a pointer to a char
- * @s: input
- * @to: input
+ * @a: input
+ * @size: input
  *
  * Return: void
  */
 
-void set_string(char **s, char *to)
+void print_diagsums(int *a, int size)
 {
 int sum1, sum2, y;
 
